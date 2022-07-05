@@ -3,6 +3,7 @@ Simple tic-tac-toe made with the help of some tutorials
 
 # Downloading the source code
 Clone the repository:
+
 `git clone https://github.com/Natural1sm/TicTaeToe`
 
 `cd TicTaeToe`
